@@ -7,11 +7,11 @@
 	>
 <channel>
 	<title>
-	Comments for Chinese Zodiac	</title>
-	<atom:link href="/comments/feed" rel="self" type="application/rss+xml" />
+	Comments on: Sample Page	</title>
+	<atom:link href="/sample-page/feed" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Explore Chinese Zodiac Signs and Traditional Wisdom</description>
-	<lastBuildDate>Thu, 14 Nov 2024 10:00:34 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 22 Sep 2023 13:54:06 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>

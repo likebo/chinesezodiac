@@ -5,13 +5,13 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
+	 xmlns:media="http://search.yahoo.com/mrss/" >
 
 <channel>
 	<title>Acupuncture and Moxibustion &#8211; Chinese Zodiac</title>
 	<atom:link href="/topics/acupuncture-moxibustion/feed" rel="self" type="application/rss+xml" />
 	<link>/</link>
-	<description></description>
+	<description>Explore Chinese Zodiac Signs and Traditional Wisdom</description>
 	<lastBuildDate>Fri, 16 Feb 2024 16:03:03 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
