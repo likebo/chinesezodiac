@@ -1,4 +1,0 @@
-chinesezodiac
-=============
-
-Chinese Zodiac
