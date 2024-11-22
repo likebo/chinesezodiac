@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Ox &#8211; Chinese Zodiac</title>
-	<atom:link href="https://chinesezodiac.org/sign/ox/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="https://chinesezodiac.org/ox/feed/" rel="self" type="application/rss+xml" />
 	<link>https://chinesezodiac.org/</link>
 	<description>Explore Chinese Zodiac Signs and Traditional Wisdom</description>
 	<lastBuildDate>Thu, 21 Nov 2024 02:01:05 +0000</lastBuildDate>
