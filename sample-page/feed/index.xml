@@ -8,14 +8,14 @@
 <channel>
 	<title>
 	Comments on: Sample Page	</title>
-	<atom:link href="/sample-page/feed" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://chinesezodiac.org/sample-page/feed/" rel="self" type="application/rss+xml" />
+	<link>https://chinesezodiac.org/</link>
 	<description>Explore Chinese Zodiac Signs and Traditional Wisdom</description>
 	<lastBuildDate>Fri, 22 Sep 2023 13:54:06 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.7</generator>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
 </channel>
 </rss>
